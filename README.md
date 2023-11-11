@@ -31,6 +31,6 @@
  
   <br/>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaemminP&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamminP&show_icons=true&theme=radical)
   
 </div>
