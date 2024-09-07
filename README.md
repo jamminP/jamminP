@@ -22,11 +22,3 @@
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
    <br/>
    <br/>
-
-#### :pencil2: Study log
- 
-  <br/>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamminP&show_icons=true&theme=radical)
-  
-</div>
