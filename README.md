@@ -50,18 +50,14 @@
 
 ---
 
-<table border="0">
-  <tr>
-    <td align="center" valign="top">
-      <strong>🌱 GitHub Streak</strong><br>
-      <img src="https://streak-stats.demolab.com?user=jamminP&theme=radical&hide_border=true" />
-    </td>
-    <td align="center" valign="top">
-      <strong>📊 Most Used Languages</strong><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamminP&layout=compact&theme=radical" />
-    </td>
-  </tr>
-</table>
+#### 🔧 🌱 GitHub Streak
+<img src="https://streak-stats.demolab.com?user=jamminP&theme=radical&hide_border=true" />
+
+---
+
+#### 🔧 📊 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamminP&layout=compact&theme=radical" />
 
 
 
