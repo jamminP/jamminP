@@ -51,7 +51,7 @@
 ---
 
 #### 🔧 🌱 GitHub Streak
-<img src="https://streak-stats.demolab.com?user=jamminP&theme=radical&hide_border=true" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=jamminP&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
