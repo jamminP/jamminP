@@ -1,8 +1,11 @@
-<div align="center"> 
-
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=jamminP&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62) 
-  
-#### :wave: Welcome to my GitHub Profile!
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/718880218684969028/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+</a>
 
 ---
 
