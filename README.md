@@ -62,15 +62,13 @@
 ---
 
 #### 🔧 🌱 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jamminP)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jaemminP&theme=dark)](https://git.io/streak-stats)
+
 ---
 
 #### 🔧 📊 Most Used Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamminP&layout=compact&theme=radical" />
-
-
-
 
 
 </div>
