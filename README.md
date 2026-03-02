@@ -1,10 +1,5 @@
 <h1 align="center"> Developer 박재민</h1>
 
-<p align="center">
-  <a href="https://github.com/jamminP/javascript-algorithms">🧩 Algorithm</a> •
-  <a href="https://github.com/jamminP">📁 GitHub</a>
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
