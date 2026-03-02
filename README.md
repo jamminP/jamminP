@@ -1,10 +1,6 @@
 <h1 align="center"> Developer 박재민</h1>
 
 <p align="center">
-  사용자 경험을 고민하는 웹 개발자입니다.
-</p>
-
-<p align="center">
   <a href="https://github.com/jamminP/javascript-algorithms">🧩 Algorithm</a> •
   <a href="https://github.com/jamminP">📁 GitHub</a>
 </p>
