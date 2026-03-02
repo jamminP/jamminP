@@ -1,74 +1,76 @@
-<a href="https://www.gitanimals.org/">
-      <img
-        src="https://render.gitanimals.org/guilds/718880218684969028/draw"
-        width="600"
-        height="300"
-        alt="gitanimals"
-      />
-</a>
+<h1 align="center"> Developer 박재민</h1>
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jamminP&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/jamminP"
-  width="600"
-  height="300"
-/>
-</a>
+<p align="center">
+  사용자 경험을 고민하는 웹 개발자입니다.
+</p>
+
+<p align="center">
+  <a href="https://github.com/jamminP/javascript-algorithms">🧩 Algorithm</a> •
+  <a href="https://github.com/jamminP">📁 GitHub</a>
+</p>
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-안녕하세요! 프론트엔드 개발자를 지향하는 **박재민**입니다.  
-현재는 **JavaScript**, **React**, **Tailwind CSS** 등을 중심으로 개발 역량을 키우고 있어요.  
-알고리즘 실력 향상을 위해 오즈코딩스쿨의 `매코테 스터디`에 참여 중입니다.  
-
-- 📚 꾸준히 공부하며 성장 중  
-- 🧩 알고리즘 문제 풀이 기록 중 → [알고리즘 저장소](https://github.com/jamminP/javascript-algorithms)
+- 📚 JavaScript 기반 알고리즘 문제 해결 능력 향상 중  
+- 💡 React 중심의 웹 서비스 구현 및 UI/UX 개선에 관심이 많습니다  
+- 🔥 프론트엔드 중심 풀스택 역량을 목표로 성장 중  
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 Main Tech Stack
 
-#### 🎨 Frontend
+### 🎨 Frontend
+
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
+
+---
+
+## 🛠 Other Experience
+
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-007ACC?style=for-the-badge&logo=Flutter&logoColor=white"/>
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-</p>
 
-#### 🗄️ Database
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
-</p>
+---
 
-#### 🔧 Tools & Collaboration
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+  <img 
+    width="48%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=jamminP&show_icons=true&theme=react&include_all_commits=true" 
+  />
+  <img 
+    width="48%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jamminP&layout=compact&theme=react&hide=css" 
+  />
 </p>
 
 ---
 
-#### 🔧 🌱 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=jaemminP&theme=dark)](https://git.io/streak-stats)
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jamminP&theme=dark" />
+</p>
 
 ---
 
-#### 🔧 📊 Most Used Languages
+## 📫 Contact
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamminP&layout=compact&theme=radical" />
+- GitHub: https://github.com/jamminP
+- Email: parkjaemin08@gmail.com
 
+---
 
-</div>
+⭐️ 꾸준한 성장과 기록을 지향합니다.
